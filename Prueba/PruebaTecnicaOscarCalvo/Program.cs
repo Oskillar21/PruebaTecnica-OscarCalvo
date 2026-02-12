@@ -177,3 +177,6 @@ var backupOutput = Path.Combine(backupDir, $"OutputData_{timestamp}.txt");
 // Copiarlos en su respectiva carpeta
 File.Copy(originalInput, backupInput, true);
 File.Copy(originalOutput, backupOutput, true);
+
+//Mensajes de flujo
+Console.WriteLine("Finalizo el proceso de creacion y respaldo!"
