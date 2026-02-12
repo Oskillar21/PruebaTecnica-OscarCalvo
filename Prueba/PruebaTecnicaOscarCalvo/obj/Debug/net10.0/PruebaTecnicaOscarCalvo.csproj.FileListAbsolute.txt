@@ -1,0 +1,15 @@
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\bin\Debug\net10.0\PruebaTecnicaOscarCalvo.exe
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\bin\Debug\net10.0\PruebaTecnicaOscarCalvo.deps.json
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\bin\Debug\net10.0\PruebaTecnicaOscarCalvo.runtimeconfig.json
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\bin\Debug\net10.0\PruebaTecnicaOscarCalvo.dll
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\bin\Debug\net10.0\PruebaTecnicaOscarCalvo.pdb
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\PruebaTecnicaOscarCalvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\PruebaTecnicaOscarCalvo.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\PruebaTecnicaOscarCalvo.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\PruebaTecnicaOscarCalvo.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\PruebaTecnicaOscarCalvo.dll
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\refint\PruebaTecnicaOscarCalvo.dll
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\PruebaTecnicaOscarCalvo.pdb
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\PruebaTecnicaOscarCalvo.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\obj\Debug\net10.0\ref\PruebaTecnicaOscarCalvo.dll
+C:\Users\oscar\OneDrive\Escritorio\Prueba\PruebaTecnicaOscarCalvo\bin\Debug\net10.0\Incoming\InputData.txt
